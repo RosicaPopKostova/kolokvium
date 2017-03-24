@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-produckt vekjn
-=======
-product
->>>>>>> 4b05f031ebe6807754ba74faefc822accc5e4cca
