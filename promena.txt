@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 treba da ima konglikt!!!
+=======
+nema da ima konflikt
+>>>>>>> b
